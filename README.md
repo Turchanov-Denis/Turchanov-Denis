@@ -32,3 +32,5 @@ https://turchanov-denis.github.io/-Website--BicycleLanding/src/index.html
 https://turchanov-denis.github.io/-Website--Nft-artists-team/src/index.html
 
 Страница Github: https://github.com/Turchanov-Denis
+
+Telegram: https://t.me/Turchanov_Denis
