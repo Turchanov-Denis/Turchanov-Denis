@@ -1,8 +1,6 @@
 ###  Меня зовут Турчанов Денис, я frontend developer, студент БФУ им. Канта. :zzz: :zzz: :zzz:
 
  Последние 4 месяца изучал стек технологий для фронтенда. [ Любительские проекты + фриланс заказы]
- 
- + любитель хакатонов. [ Sovcombank Team Challenge 2022 + DevRel Hack]
 
 ### [React + Redux + React Router]
 
