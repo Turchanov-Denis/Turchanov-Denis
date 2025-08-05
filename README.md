@@ -20,6 +20,10 @@ React chat для интеграции:
 Pet проект для собственной игры, которая сейчас в разработке. ( Vue + Vuex + Vue Router)
 https://turchanov-denis.github.io/-Website--Otaky/otaky-project/dist/index.html
 
+RLT test [ Vue + Vite + Pinia] 
+Инвентарь, часть тестового задания
+https://turchanov-denis.github.io/-TestTask--RTL/dist/index.html
+
 ### Лендинги:
 
 https://turchanov-denis.github.io/-Website--BicycleLanding/src/index.html
