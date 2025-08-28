@@ -1,21 +1,25 @@
-###  Меня зовут Турчанов Денис, я frontend developer, студент БФУ им. Канта. :zzz: :zzz: :zzz:
-### [React + Redux + React Router]
+### Turchanov Denis
 
-В качестве последнего проекта React приложение:
+Студент БФУ им. Канта  
+Frontend / Backend Developer  
+Базовые навыки в Unreal Engine 5 (https://gitlab.com/pellinorewarthrop/gittestlfsue) и 3d (https://www.artstation.com/harumiuki) 
 
-https://turchanov-denis.github.io/-React--SneakersShop/#/
+### Технологии
+- Frontend: React , Vue3
+- Backend: FastAPI, Nest.js, базово PHP  
 
+### [ React ]
+**Sneakers Shop** — интернет-магазин  
+[Демо](https://turchanov-denis.github.io/-React--SneakersShop/#/)  
 Репозиторий: https://github.com/Turchanov-Denis/-React--SneakersShop
 
-React chat для интеграции:
+**React Chat** — чат-приложение  
 Репозиторий: https://github.com/Turchanov-Denis/-React--Chat
 
-### [Nest.js + Nuxt.js]  
-На текущий момент изучаю Nest.js + Nuxt.js // по совместительству реализуя любительский проект, копию DTF.
-
+Копия DTF [Nest.js + Nuxt.js]  
 Репозиторий: https://github.com/Turchanov-Denis/-JournalApp--HG-journal
 
-### [ Vue + Vuex]
+### [ Vue ]
 
 Pet проект для собственной игры, которая сейчас в разработке. ( Vue + Vuex + Vue Router)
 https://turchanov-denis.github.io/-Website--Otaky/otaky-project/dist/index.html
@@ -24,11 +28,10 @@ RLT test [ Vue + Vite + Pinia]
 Инвентарь, часть тестового задания
 https://turchanov-denis.github.io/-TestTask--RTL/dist/index.html
 
-### Лендинги:
+### [ FastApi ]
+Репозиторий: https://github.com/Turchanov-Denis/MagicCatTalk-server (будет попыткой сделать свой AI Dungeon).
 
-https://turchanov-denis.github.io/-Website--BicycleLanding/src/index.html
-
-https://turchanov-denis.github.io/-Website--Nft-artists-team/src/index.html
+--- 
 
 Страница Github: https://github.com/Turchanov-Denis
 
