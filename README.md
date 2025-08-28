@@ -5,8 +5,8 @@ Frontend / Backend Developer
 Базовые навыки в Unreal Engine 5 (https://gitlab.com/pellinorewarthrop/gittestlfsue) и 3d (https://www.artstation.com/harumiuki) 
 
 ### Технологии
-- Frontend: React , Vue3
-- Backend: FastAPI, Nest.js, базово PHP  
+- Frontend: React , Vue3 :cat2:
+- Backend: FastAPI, Nest.js, базово PHP   :mouse2:
 
 ### [ React ]
 **Sneakers Shop** — интернет-магазин  
