@@ -6,7 +6,7 @@ Frontend / Backend Developer
 
 ### Технологии
 - Frontend: React , Vue3 :cat2:
-- Backend: FastAPI, Nest.js, базово PHP   :mouse2:
+- Backend: FastAPI, базово PHP   :mouse2:
 
 ### [ React ]
 **Sneakers Shop** — интернет-магазин  
