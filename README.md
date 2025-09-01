@@ -8,6 +8,13 @@ Frontend / Backend Developer
 - Frontend: React , Vue3 :cat2:
 - Backend: FastAPI, базово PHP   :mouse2:
 
+### [ FastApi ]
+Репозиторий: https://github.com/Turchanov-Denis/FastAPI-base-app (FastAPI \ SQLAlchemy \ Alembic)
+
+Репозиторий: https://github.com/Turchanov-Denis/MagicCatTalk-server (будет попыткой сделать свой AI Dungeon).
+
+Парсинг с bs4 https://github.com/Turchanov-Denis/-App--DesktopVoiceHelper/tree/Neko_desktop_helper/parser_Firo
+
 ### [ React ]
 **Sneakers Shop** — интернет-магазин  
 [Демо](https://turchanov-denis.github.io/-React--SneakersShop/#/)  
@@ -27,11 +34,6 @@ https://turchanov-denis.github.io/-Website--Otaky/otaky-project/dist/index.html
 RLT test [ Vue + Vite + Pinia] 
 Инвентарь, часть тестового задания
 https://turchanov-denis.github.io/-TestTask--RTL/dist/index.html
-
-### [ FastApi ]
-Репозиторий: https://github.com/Turchanov-Denis/MagicCatTalk-server (будет попыткой сделать свой AI Dungeon).
-
-Парсинг с bs4 https://github.com/Turchanov-Denis/-App--DesktopVoiceHelper/tree/Neko_desktop_helper/parser_Firo
 
 --- 
 
