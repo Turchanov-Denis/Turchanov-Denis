@@ -32,6 +32,7 @@ https://turchanov-denis.github.io/-TestTask--RTL/dist/index.html
 Репозиторий: https://github.com/Turchanov-Denis/MagicCatTalk-server (будет попыткой сделать свой AI Dungeon).
 
 Парсинг с bs4 https://github.com/Turchanov-Denis/-App--DesktopVoiceHelper/tree/Neko_desktop_helper/parser_Firo
+
 --- 
 
 Страница Github: https://github.com/Turchanov-Denis
