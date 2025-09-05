@@ -1,23 +1,31 @@
 ### Turchanov Denis
 
 Студент БФУ им. Канта  
-Backend Developer
+Frontend Developer
 
 ### Технологии
-- Backend: Golang, FastAPI, базово PHP   :mouse2:
 
-### [ Golang ] ( go\gin\docker\mongodb\redis\mysql )
+- Frontend: React , Vue3 :cat2:
 
-Go Chat App : https://github.com/Turchanov-Denis/go-chat-app ( go\redis\react )
+### [ React ]
+**Sneakers Shop** — интернет-магазин  
+[Демо](https://turchanov-denis.github.io/-React--SneakersShop/#/)  
+Репозиторий: https://github.com/Turchanov-Denis/-React--SneakersShop
 
-simple-http-server : https://github.com/Turchanov-Denis/simple-http-server-go ( go\mongodb\docker )
+**React Chat** — чат-приложение  
+Репозиторий: https://github.com/Turchanov-Denis/-React--Chat
 
-bookstore-api : https://github.com/Turchanov-Denis/go-bookstore-api ( Go\Gin\Gorm\SQLite\docker )
+Копия DTF [Nest.js + Nuxt.js]  
+Репозиторий: https://github.com/Turchanov-Denis/-JournalApp--HG-journal
 
-### [ FastApi ]
-Репозиторий: https://github.com/Turchanov-Denis/FastAPI-base-app (FastAPI \ SQLAlchemy \ Alembic)
+### [ Vue ]
 
-Репозиторий: https://github.com/Turchanov-Denis/MagicCatTalk-server (будет попыткой сделать свой AI Dungeon).
+Pet проект для собственной игры, которая сейчас в разработке. ( Vue + Vuex + Vue Router)
+https://turchanov-denis.github.io/-Website--Otaky/otaky-project/dist/index.html
+
+RLT test [ Vue + Vite + Pinia]
+Инвентарь, часть тестового задания
+https://turchanov-denis.github.io/-TestTask--RTL/dist/index.html
 
 --- 
 
