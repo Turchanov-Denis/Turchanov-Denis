@@ -1,6 +1,5 @@
 ### Turchanov Denis
-
-Студент БФУ им. Канта  
+ 
 Frontend Developer
 
 ### Технологии
