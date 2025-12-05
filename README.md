@@ -1,21 +1,22 @@
 ### Turchanov Denis
-Backend Developer
+ML\Backend Developer
 
 ### Технологии
-- Backend: Python (FastAPI), Golang   :mouse2:
+- ML: Python, PyTorch, TensorFlow, scikit-learn, Hadoop/Spark, Transformers 
+- Backend: Python (FastAPI), Pydantic, PostgreSQL ,SQLAlchemy, pytest, Docker/Kubernetes  \ Golang   :mouse2:
+
+### [ ML ]
+Описание: набор лабораторных и pet-проектов по классическому ML: модели для табличных данных, анализ качества, визуализация результатов. (PyTorch, TensorFlow, scikit-learn)
+Репозиторий: https://github.com/Turchanov-Denis/InstituteProject-course--3-/blob/main/MachineLearning/lab1/task_1.2/LabML_1.2.ipynb
+
+Описание:Построение пайплайнов на Spark для подготовки датасетов.
+Репозиторий:https://github.com/Turchanov-Denis/BigData/blob/main/Lab3/Untitled3.ipynb
+
 
 ### [ FastApi ]
 Репозиторий: https://github.com/Turchanov-Denis/FastAPI-base-app (FastAPI \ SQLAlchemy \ Alembic)
 
 Репозиторий: https://github.com/Turchanov-Denis/MagicCatTalk-server (будет попыткой сделать свой AI Dungeon).
-
-### [ Golang ] ( go\gin\docker\mongodb\redis\mysql )
-
-Go Chat App : https://github.com/Turchanov-Denis/go-chat-app ( go\redis\react )
-
-simple-http-server : https://github.com/Turchanov-Denis/simple-http-server-go ( go\mongodb\docker )
-
-bookstore-api : https://github.com/Turchanov-Denis/go-bookstore-api ( Go\Gin\Gorm\SQLite\docker )
 
 --- 
 
