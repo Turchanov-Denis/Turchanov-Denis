@@ -7,9 +7,11 @@ ML\Backend Developer
 
 ### [ ML ]
 Описание: набор лабораторных и pet-проектов по классическому ML: модели для табличных данных, анализ качества, визуализация результатов. (PyTorch, TensorFlow, scikit-learn)
+
 Репозиторий: https://github.com/Turchanov-Denis/InstituteProject-course--3-/blob/main/MachineLearning/lab1/task_1.2/LabML_1.2.ipynb
 
 Описание:Построение пайплайнов на Spark для подготовки датасетов.
+
 Репозиторий:https://github.com/Turchanov-Denis/BigData/blob/main/Lab3/Untitled3.ipynb
 
 
