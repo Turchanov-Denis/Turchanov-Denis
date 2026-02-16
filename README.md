@@ -2,7 +2,7 @@
 Backend Developer
 
 ### Технологии
-- Backend: Python (FastAPI), Golang   :mouse2:
+- Backend: Python, Golang   :mouse2:
 
 ### [ FastApi ]
 Репозиторий: https://github.com/Turchanov-Denis/FastAPI-base-app (FastAPI \ SQLAlchemy \ Alembic)
