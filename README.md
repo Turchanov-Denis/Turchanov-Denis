@@ -1,7 +1,6 @@
 ### Turchanov Denis
 Backend Developer
 
-### Технологии
 - Backend: Python, Golang   :mouse2:
 
 ### [ FastApi ]
